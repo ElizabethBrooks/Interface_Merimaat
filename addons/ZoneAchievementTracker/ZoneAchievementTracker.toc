@@ -1,0 +1,22 @@
+## Interface: 60100
+## Version: 6.1.0.15
+## X-Curse-Packaged-Version: 6.1.0.15
+## X-Curse-Project-Name: Zone Achievement Tracker
+## X-Curse-Project-ID: zoneachievementtracker
+## X-Curse-Repository-ID: wow/zoneachievementtracker/mainline
+
+## Title: Zone Achievement Tracker
+## Notes: Automatically tracks the achievement for completing quests in your current zone.
+## Notes-deDE: Verfolgt automatisch dem Erfolg der im aktuellen Zone abgeschlossenen Quests.
+## Notes-esES: Sigue automáticamente el logro para misiones completadas en la zona actual.
+## Notes-esMX: Sigue automáticamente el logro para misiones completadas en la zona actual.
+## Notes-ptBR: Segue automaticamente a conquista para missões concluídas na zona atual.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Copyright: Copyright (c) 2012-2015 Phanx. All rights reserved.
+## X-Website: https://github.com/Phanx/ZoneAchievementTracker
+
+## SavedVariables: ZATDB
+
+ZoneAchievementTracker.lua
